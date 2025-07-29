@@ -1,4 +1,4 @@
-﻿# Collaborative Code Editor\n\nA real-time collaborative code editor built with React, Node.js, Socket.IO, and CodeMirror.
+﻿# Collaborative Code Editor - real-time collaborative code editor built with React, Node.js, Socket.IO, and CodeMirror.
 Collaborative Code Editor
 A real-time collaborative code editor built with React, Node.js, Socket.IO, and CodeMirror. Users can join or create rooms to code together with real-time synchronization and JavaScript syntax highlighting.
 Features
